@@ -5,6 +5,7 @@ tags = ["Horses", "Animals", "Nature", "Equestrian", "Farming"]
 image = "cover.jpg"
 category = ["Animals"]
 slug = "magnificent-world-horses-celebrating-majesty-equines"
+showHomepageTags = true
 +++
 
 # The Magnificent World of Horses: Celebrating the Majesty of Equines

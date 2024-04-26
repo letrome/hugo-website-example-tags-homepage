@@ -5,6 +5,7 @@ tags = ["Cows", "Livestock", "Animals", "Nature", "Farming"]
 category = ["Animals"]
 slug = "majestic-world-cows-exploring-beauty-bovines"
 image = "cover.jpg"
+showHomepageTags = false
 +++
 
 # The Majestic World of Cows: Exploring the Beauty of Bovines

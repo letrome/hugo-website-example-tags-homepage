@@ -5,6 +5,7 @@ tags = ["Chickens", "Poultry", "Animals", "Nature", "Farming"]
 image = "cover.jpg"
 category = ["Animals"]
 slug = "wonderful-world-chickens-exploring-charm"
+showHomepageTags = true
 +++
 
 # The Wonderful World of Chickens: Exploring the Charm of Cluckers

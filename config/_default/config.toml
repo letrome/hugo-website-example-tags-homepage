@@ -4,3 +4,6 @@ title = "laromierre - mock"
 defaultContentLanguage = "en"
 theme="stack-examples"
 disableKinds = ['sitemap', 'rss']
+
+[params]
+showHomepageTags = false
